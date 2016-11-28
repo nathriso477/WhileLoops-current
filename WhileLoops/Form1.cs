@@ -57,7 +57,7 @@ namespace WhileLoops
                 g.Clear(Color.Black);
                 g.FillRectangle(drawBrush, x, y, 10, 10);
 
-                Thread.Sleep(10);   
+                Thread.Sleep(10);    
 
             }
         }
